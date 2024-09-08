@@ -1,16 +1,21 @@
-## Hi there 👋
+# 自己紹介
+生年月日 1993/11/30
+石川県出身・東京都在住　
 
-<!--
-**kazuki-okubo-1130/kazuki-okubo-1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 学歴
+関東学院大学 経済学部 経営学科卒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 職務経歴
+  一建設株式会社（2016/04~2021/01）
+    住宅の企画・建設・販売を行う会社。
+    1年間は営業、2年目以降は本社設計部にて住宅性能評価全統取得PJを推進。
+    エクセルシート関数・VBAを触ったことがエンジニアとしてキャリアを歩み出すきっかけに・・・
+
+  株式会社Skyfall（2021/02~2022/07）
+    広告代理店
+    広告運用の自動化・ロジック開発を担当。
+
+〜作成中〜
+

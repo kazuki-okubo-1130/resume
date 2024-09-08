@@ -40,11 +40,11 @@
 
 ## スキルセット
 - Python
-- - Frame Work
-  - - Flask
+  - Frame Work
+    - Flask
 - JavaScript
 - AWS
-- - VPC
+  - VPC
   - S3
   - IAM
   - EC2

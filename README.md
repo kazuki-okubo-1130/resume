@@ -40,7 +40,11 @@
 - Python
   - Frame Work
     - Flask
+    - Fast APU
 - JavaScript
+- TypeScript
+  - React
+  - Next.js 
 - AWS
   - VPC
   - S3
@@ -53,6 +57,22 @@
   - CloudFront
   - SSM
   - ElastiCache
+- Azure
+  - Azure Active Directory (AAD B2C)
+  - Cosmos DB
+  - Storage Account
+  - App Services
+  - Container Apps
+  - Resource Group
+  - Virtual Network (VNet)
+  - Private DNS
+  - Private Endpoint
+  - Network Security
+  - Log Analytics
+  - Role Assignments and Definitions
+  - Identity
+  - Azure Cognitive Services, Azure Search Service
+  - Azure Database for PostgreSQL
 - Terraform
 - GitHub Actions
 - SQL

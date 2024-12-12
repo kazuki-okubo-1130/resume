@@ -40,11 +40,12 @@
 - Python
   - Frame Work
     - Flask
-    - Fast APU
-- JavaScript
-- TypeScript
+    - Fast API
+  
+- TypeScript(JavaScript)
   - React
-  - Next.js 
+  - Next.js
+    
 - AWS
   - VPC
   - S3
@@ -57,6 +58,7 @@
   - CloudFront
   - SSM
   - ElastiCache
+    
 - Azure
   - Azure Active Directory (AAD B2C)
   - Cosmos DB
@@ -73,6 +75,7 @@
   - Identity
   - Azure Cognitive Services, Azure Search Service
   - Azure Database for PostgreSQL
+    
 - Terraform
 - GitHub Actions
 - SQL
